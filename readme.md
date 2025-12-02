@@ -41,3 +41,7 @@ A React application to generate professional LinkedIn banners based on your prof
 - Vite
 - Tailwind CSS
 - Lucide React (Icons)
+
+---
+
+**Author: [Hari Kishore](https://github.com/HariKishorePec) | [LinkedIn](https://www.linkedin.com/in/hari-kishore-pec/)**
